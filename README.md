@@ -1,2 +1,2 @@
-# abstract-contracts
-Understanding Abstract Contracts in Solidity
+# solidity-contracts
+Understanding The basics of solidity smart contracts
